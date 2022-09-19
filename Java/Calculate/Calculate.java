@@ -1,3 +1,4 @@
+// Program to calculate perimeter and area of given integers
 public class Calculate{
     
     static void myArea(int a, int b){
