@@ -1,10 +1,8 @@
-package Operators;
-
 public class DemoOperator {
     public static void main(String[] args){
         boolean logik = true;
         boolean logik1 = false;
-        int rel = 6;
+        int rel = 2;
         int rel1 = 5;
         int num = 5+5;
 
@@ -16,7 +14,7 @@ public class DemoOperator {
             System.out.println("Use of relational operator.");
         }
         else{
-            System.out.println("Use of arithmetic operator."+num);
+            System.out.println("Use of arithmetic operator. Addition:5+5="+num);
         }
     }
 }
