@@ -1,3 +1,3 @@
-public class Walk {
-    String walk = "walking";
+interface Walk {
+    public void walkChar();
 }

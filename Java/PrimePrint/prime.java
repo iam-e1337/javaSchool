@@ -1,4 +1,4 @@
-public class exp {
+public class prime {
     public static void main(String[] args){
         int numCount = 0;
         int i = 0;
